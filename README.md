@@ -1,4 +1,4 @@
-# CodeAlpha_Project_Name
+# CodeAlpha_Project_StudentGradeTracker
 task1 - Student Grade tracker
 
 
